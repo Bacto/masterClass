@@ -1,0 +1,3 @@
+- save password for private key
+- find a class in react/js
+- define atom plugins list

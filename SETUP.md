@@ -52,6 +52,17 @@ Useful shortcuts:
 - Install Atom (Caskroom/cask/atom)
 - During installation, watch https://www.youtube.com/watch?v=Y7aEiVwBAdk
 
+- Plugins to install:
+  - file-icons
+  - es6-javascript
+  - linter
+  - linter-jsxhint
+  - linter-jsonlint
+  - linter-eslint
+  - language-babel
+  - react-snippets
+  - pigments
+
 
 ### Hello world
 
@@ -97,6 +108,20 @@ git commit -m "Creation of my first project"
 git remote ...
 git push ...
 ```
+
+#### How to push to github
+
+```
+git add --all .
+git commit -m "<Reason>"
+git push
+```
+
+#### Tired of entering your private key password every time?
+```
+ssh-add -K
+```
+;)
 
 ### I am...
 
