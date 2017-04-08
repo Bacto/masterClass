@@ -1,14 +1,14 @@
-## Course 1: Setup your station
+# Course 1: Setup your station
 
 
 - Install Xcode
 
-### Mac configuration
+## Mac configuration
 
 - Keyboard
 - Trackpad speed
 
-### Security
+## Security
 
 - Define a password
 - Set password on screensaver
@@ -17,7 +17,7 @@
 - ctrl + shift + power to learn
 - Install 1password / Dashlane
 
-### Terminal
+## Terminal
 
 - iTerm2
 - oh-my-zsh
@@ -42,13 +42,13 @@ Useful shortcuts:
 - `ctrl+l`: clean the screen
 
 
-### Others
+## Others
 
 - Brew:
   - brew search \<package\>
   - brew install \<package\>
 
-### Atom
+## Atom
 
 - Install Atom (Caskroom/cask/atom)
 - During installation, watch https://www.youtube.com/watch?v=Y7aEiVwBAdk
@@ -65,7 +65,7 @@ Useful shortcuts:
   - pigments
 
 
-### Hello world
+## Hello world
 
 Install nodejs with Brew
 
@@ -85,7 +85,7 @@ cd helloWorld
 `node app.js`
 
 
-### Github
+## Github
 
 - Install git
 ```
@@ -110,7 +110,7 @@ git remote ...
 git push ...
 ```
 
-#### How to push to github
+### How to push to github
 
 ```
 git add --all .
@@ -118,13 +118,13 @@ git commit -m "<Reason>"
 git push
 ```
 
-#### Tired of entering your private key password every time?
+### Tired of entering your private key password every time?
 ```
 ssh-add -K
 ```
 ;)
 
-### I am...
+## I am...
 
 Go back to your project "helloWorld" on your computer and add your name: "Hello world, I'm <yourName>".
 
