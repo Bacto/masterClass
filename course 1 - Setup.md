@@ -1,6 +1,7 @@
-### Required tools
+## Course 1: Setup your station
 
-- Xcode
+
+- Install Xcode
 
 ### Mac configuration
 
